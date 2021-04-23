@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zzhbrr
-- 👀 I’m interested in algorithm and develop demos
+- 👀 I’m interested in algorithm and developing demos
 - 🌱 I’m currently learning SCU
 - 💞️ I’m looking to collaborate with anyone who has the same interest
 - 📫 How to reach me, you can communicate with me by email, 1376447388@qq.com
