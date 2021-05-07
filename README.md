@@ -5,7 +5,7 @@
 - 📫 How to reach me, you can communicate with me by email, 1376447388@qq.com
 
 You can find me in OJs by the nickname BriMon.
-I'm active in many OJs such as Codeforces, Luogu, POJ...
+I'm active in many OJs such as Codeforces, Luogu, POJ, HDU...
 
 <!---
 zzhbrr/zzhbrr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
