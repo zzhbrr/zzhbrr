@@ -5,6 +5,7 @@
 - 📫 How to reach me, you can communicate with me by my email, 1376447388@qq.com
 
 You can find me in OJs by the nickname BriMon(I use this name for a long time since I'm in high school).
+
 I'm active in many OJs such as Codeforces, Luogu, POJ, HDU...
 
 And if you have some questions or proposals about my project, I'd be happy to communist with you.
