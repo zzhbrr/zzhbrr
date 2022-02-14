@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @zzhbrr
-- 👀 I’m interested in algorithm and developing project
+- 👀 I’m interested in algorithm and computer version.
 - 🌱 I’m currently learning in SCU
 - 💞️ I’m looking to collaborate with anyone who has the same interest
-- 📫 How to reach me, you can communicate with me by my email, 1376447388@qq.com
+- 📫 How to reach me, you can communicate with me by my email, zzhbrr@163.com
 
 You can find me in OJs by the nickname BriMon(I use this name for a long time since I'm in high school).
 
