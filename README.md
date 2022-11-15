@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @zzhbrr
-- 👀 I’m interested in algorithm and computer version.
-- 🌱 I’m currently learning in SCU
+- 👋 Hi, I’m @**zzhbrr**
+- 👀 I’m interested in **machine learning and AI** (cv, nlp, rl, and so on).
+- 🌱 I’m currently learning in **SCU**
 - 💞️ I’m looking to collaborate with anyone who has the same interest
-- 📫 How to reach me, you can communicate with me by my email, zzhbrr@163.com
+- 📫 How to reach me, you can communicate with me by my email, **zzhbrr@gmail.com**
 
-You can find me in OJs by the nickname BriMon(I use this name for a long time since I'm in high school).
+You can find me in OJs by the nickname **BriMon**(I use this name for a long time since I'm in high school).
 
 I'm active in many OJs such as Codeforces, Luogu, POJ, HDU...
 
