@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @**zzhbrr**
 - 👀 I’m interested in **machine learning and AI** (cv, nlp, rl, and so on).
-- 🌱 I’m currently learning in **SCU**
+- 🌱 I’m currently learning in **SCU(Sichuan University)**
 - 💞️ I’m looking to collaborate with anyone who has the same interest
 - 📫 How to reach me, you can communicate with me by my email, **zzhbrr@gmail.com**
 
