@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @**zzhbrr**
-- 👀 I’m interested in **machine learning and AI** .
-- 🌱 I’m currently learning in **SCU(Sichuan University)**
+- 👀 I’m interested in **Machine Learning System**, and my recent work focuses on **large model inference systems**.
+- 🌱 I am currently a master's student at **Nanjing University**, and I completed my undergraduate studies at **Sichuan University**.
 - 📫 How to reach me, you can communicate with me by my email, **zzhbrr@gmail.com**
 
 <!---
